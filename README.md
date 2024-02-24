@@ -7,4 +7,4 @@
 
 ## Installing Guide
 
-Create folder install to this folder updater.jar and TAPI.exe
+Create folder install to this folder https://github.com/right-twix/updater/releases/tag/updater and TAPI.exe
