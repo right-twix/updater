@@ -1,6 +1,6 @@
-TAPI - Twix Application Programming Interface
+# TAPI - Twix Application Programming Interface
 
-This Application use auto update system! 
+*This Application use auto update system!*
 
 
 ![1](https://github.com/right-twix/updater/assets/161118031/566a1b43-2972-4ec6-9507-b1ccf91ce7af)
